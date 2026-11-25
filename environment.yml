@@ -1,0 +1,11 @@
+name: nilmtk-testbed
+channels:
+  - conda-forge
+  - nilmtk
+dependencies:
+  - python=3.8
+  - nilmtk
+  - scikit-learn
+  - matplotlib
+  - pytest
+  - pip
